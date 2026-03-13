@@ -466,7 +466,8 @@ const quizData=[
       "<label>",
       "<legend>",
       "<textarea>"
-    ]
+    ],
+    "correctAnswer": 2
   },
   {
     "question": "_______ event was triggered when the media start playing",
