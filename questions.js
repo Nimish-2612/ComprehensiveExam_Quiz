@@ -298,7 +298,286 @@ const quizData = [
       "Cross platform scripting language"
     ],
     "correctAnswer": "0"
-  }
-]
+  },
+  {
+    "question": "Circle segments are helpful for viewing _________ data.",
+    "options": [
+      "One dimensional",
+      "Two dimensional",
+      "Multi dimensional",
+      "Mixed mode"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Closure occurs when an object is __________.",
+    "options": [
+      "Complete",
+      "Incomplete",
+      "Distorted",
+      "Distributed"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Color is best understood in terms of luminance, _________, and saturation.",
+    "options": [
+      "Brightness",
+      "Hue",
+      "Histogram",
+      "Intensity"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Designer may use the law of _______ to create a shape of an island and its reflection on the sea.",
+    "options": [
+      "Proximity",
+      "Similarity",
+      "Continuity",
+      "Transitivity"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Finding all the possible paths from one node to another is an example of _______ task.",
+    "options": [
+      "Topological",
+      "Sequential",
+      "Interpolation",
+      "Informal"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "For visualization design, the technique driven approach is _____________.",
+    "options": [
+      "Bottom-up",
+      "Top-down",
+      "Linear",
+      "Cascading"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "For a choropleth map, a choice of _______ bins is good.",
+    "options": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "5-7"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Gender', 'eye color' are examples of _________ data.",
+    "options": [
+      "Categorical",
+      "Ordinal",
+      "Quantitative",
+      "Qualitative"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Greenland appears to be bigger than Africa in which type of projection?",
+    "options": [
+      "Conformal",
+      "Area preserving",
+      "Shadow",
+      "Gray"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "In node-link diagram, which type of nodes are perceived as tightly grouped?",
+    "options": [
+      "Node with direct single link",
+      "Node with multiple links",
+      "Isolated nodes",
+      "Clustered nodes"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "In HSL system, the __________ axis is the amount of white mixed with that pure color.",
+    "options": [
+      "Hue",
+      "Saturation",
+      "Colour",
+      "Light"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "KDD process is useless if the results are not ___________.",
+    "options": [
+      "Understandable",
+      "Colourful",
+      "Plottable",
+      "Reproducible"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Luminance and saturation are _________ channels.",
+    "options": [
+      "Amplitude",
+      "Magnitude",
+      "Cardinality",
+      "Identity"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "The goal of task abstraction is to transform user task from a domain specific language into a ____ level concise representation.",
+    "options": [
+      "High",
+      "Low",
+      "Mid",
+      "Min"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "The length characteristic of which among these visual variable is theoretically infinite?",
+    "options": [
+      "Texture",
+      "Shape",
+      "Color",
+      "Size"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "The number of unique values for an attribute is known as ________.",
+    "options": [
+      "Group value",
+      "Cardinality",
+      "Entropy",
+      "Information gain"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "The red, blue, and green axes of the RGB color space are ________ useful as separable channels.",
+    "options": [
+      "Not",
+      "Highly",
+      "Occasionally",
+      "Always"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "What will be the output for the following: x <- c(1,2,NA,3); mean(x)",
+    "options": [
+      "1.5",
+      "NA",
+      "Undefined",
+      "Error"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "When similarity occurs, an object can be emphasized if it is dissimilar to the others. This is called ____________.",
+    "options": [
+      "Abnormality",
+      "Anomaly",
+      "Synonyms",
+      "Wrong view"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Which among these is a better example of clustering?",
+    "options": [
+      "Dendogram",
+      "Decision tree",
+      "Circle segment",
+      "Decision tables"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Which among these is example of sequential type attribute?",
+    "options": [
+      "Temperature",
+      "Altitude",
+      "Month",
+      "Age"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Which among these is not among the main Gestalt laws?",
+    "options": [
+      "Law of proximity",
+      "Law of similarity",
+      "Law of transitivity",
+      "Law of continuity"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Which among these will return the modulus division between A and B?",
+    "options": [
+      "A%%B",
+      "A%B",
+      "A~B",
+      "A/B"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Which forecasting method is used when situation is stable and historical data exist?",
+    "options": [
+      "Quantitative",
+      "Qualitative",
+      "Distributive",
+      "Descriptive"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Which forecasting method is used when situation is vague and little data exist?",
+    "options": [
+      "Quantitative",
+      "Qualitative",
+      "Descriptive",
+      "Distributive"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Which marks are effective in showing complete information on hierarchical data?",
+    "options": [
+      "Cliques",
+      "Containments",
+      "Multiple colors",
+      "Multiple shapes"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Which of these commands will run a simple linear regression of miles per gallon on car weight using the dataframe mtcars. Results are sent to the screen. Nothing is saved.",
+    "options": [
+      "lm(mpg~wt, data=mtcars)",
+      "lm(mpg~wt, mtcars)",
+      "lm(mpg~wt, df)",
+      "ls(mpg~wt, df)"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "While representing time series data, it is advisable not to use more than _____ variables on a line graph.",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctAnswer": "3"
+  },
 
-  
+]
