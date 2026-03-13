@@ -579,5 +579,4 @@ const quizData = [
     ],
     "correctAnswer": "3"
   },
-
 ]
