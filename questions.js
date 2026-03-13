@@ -1398,4 +1398,5 @@ const quizData = [
       "1, 3, 4"
     ],
     "correctAnswer": "3"
-  },
+  }
+  ]
